@@ -1,0 +1,4 @@
+import turtle
+for x in range(50):
+     turtle.forward(x*10)
+     turtle.left(90)
